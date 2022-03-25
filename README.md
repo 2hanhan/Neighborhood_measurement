@@ -1,6 +1,6 @@
-# Neighborhood_measurement
+# Neighborhood_measurement 直方图均衡化
 > 参考可以把star留下QAQ
-直方图均衡化
+
 ## clone + build
 ## main 函数的两个参数
 ```c++
